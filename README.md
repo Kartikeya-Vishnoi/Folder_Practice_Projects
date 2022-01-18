@@ -1,0 +1,3 @@
+# Folder_Practice_Projects
+Hi...Kartikeya here
+I created this repo for practicing and learning more about git...
